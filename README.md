@@ -7,7 +7,7 @@
 
 <h2><i>Breve descrição:</i></h2>
 
-<p><i>Projeto de um site de um shopping, onde a finalidade foi o ensino se um site responsivo,que nada mais é que um site que se adapte em dimensões e qualidade de imagem tanto para uma tela desktop quanto para um tela de um celular(mobile), tablet entre outros. </i></p>
+<p><i>Projeto de um site de um shopping, onde a finalidade foi o ensino se um site responsivo, que nada mais é que um site que se adapte em dimensões e qualidade de imagem tanto para uma tela desktop quanto para um tela de um celular(mobile), tablet entre outros. </i></p>
 <br>
 
 
