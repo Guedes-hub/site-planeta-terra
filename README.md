@@ -36,3 +36,12 @@
 <br>
 
 <img src="https://github.com/Guedes-hub/PROJETOS-HTML-CSS/blob/master/PASTE%20CSS/imagens/Captura-tela-mobile-Projeto1.png?raw=true"/>
+<br>
+<br>
+<br>
+<br>
+
+<h2><i>Imagem origem: girl-cell-phone.png☑️</i></h2>
+<br>
+<br>
+<img src="https://github.com/Guedes-hub/PROJETOS-HTML-CSS/blob/master/PASTE%20CSS/imagens/girl-cell-phone.png?raw=true"/>
