@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<h2><i>Imagem origem: girl-cell-phone.png☑️</i></h2>
+<h2><i>Imagem origem: girl-cell-phone.png</i></h2>
 <br>
 <br>
 <img src="https://github.com/Guedes-hub/PROJETOS-HTML-CSS/blob/master/PASTE%20CSS/imagens/girl-cell-phone.png?raw=true"/>
