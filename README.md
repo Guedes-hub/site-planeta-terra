@@ -1,4 +1,4 @@
-<h1 style="font-size:35px; color:gold;">Site Projeto 1 - Easy Shopping💰💎💵</h1>
+<h1>Site Projeto 1 - Easy Shopping💰💎💵</h1>
 <br>
 
 
@@ -8,7 +8,7 @@
 
 <h2><i>📜Breve descrição:</i></h2>
 
-<p><i>Projeto de um site de um shopping, onde a finalidade foi o ensino se um site responsivo, que nada mais é que um site que se adapte em dimensões e qualidade de imagem tanto para uma tela desktop quanto para um tela de um celular(mobile), tablet entre outros. </i></p>
+<p><i>Projeto de um site de um shopping, onde a finalidade foi o ensino se um site responsivo, que nada mais é que um site que se adapte em dimensões e qualidade de imagem tanto para uma tela desktop quanto para tela de um celular(mobile), tablet entre outros. </i></p>
 <br>
 
 
