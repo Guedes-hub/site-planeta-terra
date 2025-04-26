@@ -46,5 +46,15 @@
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/Guedes-hub/PROJETOS-HTML-CSS/eb0a363ce845ec35c189e92b56d986e840409f35/PASTE%20CSS/imagens/img-origem-reduzida.png"/>
+<br>
+<br>
+<h2><i>💾Arquivos utilizados:</i></h2>
+➛Projeto1.html
+➛Projeto1.css
+➛girl-cell-phone.png
+<br>
+<br>
+<br>
+💡<i>Esse projeto é uma realização Guedes-hub♞ by Jeferson Guedes</i>♜.
 
 
