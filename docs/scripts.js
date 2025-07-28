@@ -120,27 +120,27 @@ function changeCurrencyPrime() {
 
   if (currencySelectPrime.value == "Real") {
     currencyNew.innerHTML = "Real"
-    currencyYes.src = "./assets-conversor/real.png"
+    currencyYes.src = "./assets-conversor/real.png/java-script/"
   }
 
   if (currencySelectPrime.value == "dolar") {
     currencyNew.innerHTML = "Dólar americano"
-    currencyYes.src = "./assets-conversor/dolar.png"
+    currencyYes.src = "./assets-conversor/dolar.png/java-script/"
   }
 
   if (currencySelectPrime.value == "Euro") {
     currencyNew.innerHTML = "Euro"
-    currencyYes.src = "./assets-conversor/logo-euro.png"
+    currencyYes.src = "./assets-conversor/logo-euro.png/java-script/"
   }
 
   if (currencySelectPrime.value == "Libra") {
     currencyNew.innerHTML = "Libra"
-    currencyYes.src = "./assets-conversor/libra 1.png"
+    currencyYes.src = "./assets-conversor/libra 1.png/java-script/"
   }
 
   if (currencySelectPrime.value == "Bitcoin") {
     currencyNew.innerHTML = "Bitcoin"
-    currencyYes.src = "./assets-conversor/bitcoin 1.png"
+    currencyYes.src = "./assets-conversor/bitcoin 1.png/java-script/"
   }
 
 
