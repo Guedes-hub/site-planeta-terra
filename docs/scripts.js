@@ -120,27 +120,27 @@ function changeCurrencyPrime() {
 
   if (currencySelectPrime.value == "Real") {
     currencyNew.innerHTML = "Real"
-    currencyYes.src = "./docs/assets-conversor/real.png"
+    currencyYes.src = "assets-conversor/real.png"
   }
 
   if (currencySelectPrime.value == "dolar") {
     currencyNew.innerHTML = "Dólar americano"
-    currencyYes.src = "./docs/assets-conversor/dolar.png"
+    currencyYes.src = "assets-conversor/dolar.png"
   }
 
   if (currencySelectPrime.value == "Euro") {
     currencyNew.innerHTML = "Euro"
-    currencyYes.src = "./docs/assets-conversor/logo-euro.png"
+    currencyYes.src = "assets-conversor/logo-euro.png"
   }
 
   if (currencySelectPrime.value == "Libra") {
     currencyNew.innerHTML = "Libra"
-    currencyYes.src = "./docs/assets-conversor/libra 1.png"
+    currencyYes.src = "assets-conversor/libra 1.png"
   }
 
   if (currencySelectPrime.value == "Bitcoin") {
     currencyNew.innerHTML = "Bitcoin"
-    currencyYes.src = "./docs/assets-conversor/bitcoin 1.png"
+    currencyYes.src = "assets-conversor/bitcoin 1.png"
   }
 
 
@@ -163,13 +163,13 @@ function changeCurrency() {
 
   if (currencySelect.value == "dolar") {
     currencyName.innerHTML = "Dólar americano"
-    currencyImage.src = "./docs/assets-conversor/dolar.png"
+    currencyImage.src = "assets-conversor/dolar.png"
   }
 
 
   if (currencySelect.value == "Real") {
     currencyName.innerHTML = "Real"
-    currencyImage.src = "./docs/assets-conversor/real.png"
+    currencyImage.src = "assets-conversor/real.png"
 
 
 
@@ -177,19 +177,19 @@ function changeCurrency() {
 
   if (currencySelect.value == "Euro") {
     currencyName.innerHTML = "Euro"
-    currencyImage.src = "./docs/assets-conversor/logo-euro.png"
+    currencyImage.src = "assets-conversor/logo-euro.png"
 
   }
 
   if (currencySelect.value == "Libra") {
     currencyName.innerHTML = "Libra"
-    currencyImage.src = "./docs/assets-conversor/libra 1.png"
+    currencyImage.src = "assets-conversor/libra 1.png"
 
   }
 
   if (currencySelect.value == "Bitcoin") {
     currencyName.innerHTML = "Bitcoin"
-    currencyImage.src = "./docs/assets-conversor/bitcoin 1.png"
+    currencyImage.src = "assets-conversor/bitcoin 1.png"
 
   }
 
