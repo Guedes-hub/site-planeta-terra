@@ -1,5 +1,8 @@
 
-Site planeta terra
+Site planeta terra 
+<br>
+<br>
+Utilizado HTML e CSS.
 <br>
 <br>
 Acesse o projeto na web: https://guedes-hub.github.io/site-planeta-terra/
