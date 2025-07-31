@@ -1,7 +1,8 @@
 * {
 
 
-    font-family: "Poppins", serif;
+    font-family: "Oswald";
+    font-weight: 400;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,145 +11,179 @@
 
 }
 
-header {
-    margin-top: 47px;
-    margin-left: 42px;
+.div-geral {
+    height: 100vh;
+    width: 100vw;
+}
 
-
-
+.section-left{
+    display: inline-block;
+    width: 60%;
+    margin-top: 20%;
+    padding-left: 136px;
 
 }
 
-.linkar-header {
-    cursor: pointer;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 21px;
-    text-align: center;
-    letter-spacing: 0.87px;
-    color: #17233D;
-    margin-right: 32px;
-
-
-}
-
-.linkar-button {
-    cursor: pointer;
-    background: #6FBF44;
-    border: 1px solid #4CB538;
-    border-radius: 6px;
-    width: 124px;
-    height: 51px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 1px;
-    color: #FFFFFF;
-
-
+.section-right {
+    display: inline-block;
+    background-color: rgba(93, 93, 125, 0.16);
+    height: 100vh;
+    width: 40%;
+    position: absolute;
 
 }
 
 img {
-    margin: 163px 0 0 123px;
-    display: inline-block;
+    position: relative;
+    top: 25%;
+    right: 130px;
+    cursor: pointer;
 
 
 }
 
-section {
-    display: inline-block;
-    margin-left: 85px;
-    width: 493px;
 
 
-
-
-
-
-
-}
 
 h1 {
-    font-weight: 700;
-    font-size: 62px;
-    line-height: 82px;
-    letter-spacing: 0.596154px;
-    color: #161A49;
 
+
+    font-size: 70px;
+    line-height: 80px;
+    color: #5D5D7D;
+    width: 368px;
 
 
 
 }
+
 
 p {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 33px;
-    letter-spacing: 0.5px;
-    color: #4B505A;
-    margin: 47px 0 55px 0;
+
+    font-size: 28px;
+    line-height: 48px;
+    color: #5D5D7D;
+    opacity: 0.6;
+    margin: 15px 0;
+    width: 540px;
+    cursor: pointer;
+
+
 
 
 }
 
-.linkar-other-link {
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: 1px;
-    color: #6FBF44;
+button {
+    width: 269px;
+    height: 62px;
+    background: #9499EA;
+    box-shadow: 0px 10px 24px rgba(148, 153, 234, 0.0979959);
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+
+
+
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.5;
+}
+
+
+a {
+    font-size: 28px;
+    line-height: 41px;
+    color: #5D5D7D;
+    margin-right: 41px;
     cursor: pointer;
 }
 
-/*Responsavidade*/
+a:nth-child(2) {
+    opacity: 0.4;
+}
 
-@media screen and (max-width:391px) {
+a:hover {
+    opacity: 0.4;
+}
 
-    .linkar-header {
-        display: none;
-    }
+a:active {
 
-    .linkar-button {
-        margin-left: 460px;
-    }
+    opacity: 0.8;
+}
 
-    .section-prime {
+header {
+    margin: 24px 0 0 57px;
+}
+
+
+
+/*Responsavidade (Responsivo) para o mobile/celular abaixo*/
+
+
+@media screen and (max-width: 1290px) {
+
+    .section-left {
         width: 100%;
         height: 50%;
         padding: 0;
-        position: absolute;
-        top: 230px;
-    
+        margin: 0;
     }
-    
-      
-    
 
-    h1{
-        margin-left: 90px;
-        font-size: 37px;
+    .section-right {
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+        padding: 40px;
+    }
+
+    img {
+        position: static;
+        max-width: 90%;
+
+    }
+
+    header {
+        display: none;
+    }
+
+    h1 {
+        font-size: 36px;
+        line-height: 52px;
         width: auto;
-        line-height: 40px;
+
         text-align: center;
     }
 
-    p{
-        margin-left: 90px;
-        line-height: 40px;
-        font-size: 22px;
-        text-align: justify;
+    p {
+        margin: 15px 40px;
+        width: auto;
+        text-align: center;
+        font-size: 14px;
+        line-height: 24px;
     }
 
-    .linkar-other-link{
-        margin-left: 200px;
-        font-size: 23px;
+    button {
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .section-left {
+        height: 70%;
+
     }
 
-    img{
-        position: absolute;
-        bottom: -400px;
 
-    }
 
-   
+}
